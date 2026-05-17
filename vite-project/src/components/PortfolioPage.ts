@@ -168,6 +168,10 @@ export const renderPortfolioPage = () => `
 
         <div class="portfolio-hero__visual reveal">
           <div class="portfolio-photo-card">
+            <div class="portfolio-photo-orb portfolio-photo-orb--one"></div>
+            <div class="portfolio-photo-orb portfolio-photo-orb--two"></div>
+            <div class="portfolio-photo-ring portfolio-photo-ring--one"></div>
+            <div class="portfolio-photo-ring portfolio-photo-ring--two"></div>
             <div class="portfolio-photo-card__badge">Recruiter-ready profile</div>
             <div class="portfolio-photo-card__focus">
               <span>Current focus</span>
